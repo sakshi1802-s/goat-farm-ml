@@ -1,0 +1,18 @@
+Upload Goat Image,Detection Result,Results,timestamp
+.gradio\flagged\Upload Goat Image\97c4237c3e43af766a57\IMG_20191104_160310.jpg,.gradio\flagged\Detection Result\09d0f8e7ebfe8cce9d4c\image.webp,"🔍 GOAT RECOGNITION RESULTS
+==================================================
+
+[STEP 1] YOLOv8 Face Detection
+✓ Detected 6 face(s)
+
+[STEP 2] CNN Individual Recognition
+✓ Predicted Goat ID: 64
+✓ Confidence: 37.01%
+
+[Top-3 Predictions]
+1. Goat 64: 37.01%
+2. Goat 10: 25.95%
+3. Goat 68: 22.02%
+
+[Confidence Level]
+❌ LOW - Multiple confirmations needed",2025-11-18 02:01:55.739399

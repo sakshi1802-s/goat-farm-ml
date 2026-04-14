@@ -1,0 +1,9 @@
+names:
+- face
+- eye
+- mouth
+- ear
+nc: 4
+path: C:\Users\jayde\OneDrive\Desktop\ml precision goat farm\data\yolov8_dataset
+train: images/train
+val: images/val
